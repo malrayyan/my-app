@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          assalaam u alaikum from mma. How do you like the class today? 
+          assalaam u alaikum from mma. How do you like the class today? Now is good time
         </a>
       </header>
     </div>
