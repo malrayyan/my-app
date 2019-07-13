@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          assalaam u alaikum from mma. Today is Staurday July 13th 
+          assalaam u alaikum from mma. How do you like the class today? 
         </a>
       </header>
     </div>
